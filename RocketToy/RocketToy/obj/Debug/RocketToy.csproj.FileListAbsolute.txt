@@ -1,0 +1,6 @@
+c:\users\carson\documents\visual studio 2015\Projects\RocketToy\RocketToy\bin\Debug\RocketToy.exe.config
+c:\users\carson\documents\visual studio 2015\Projects\RocketToy\RocketToy\bin\Debug\RocketToy.exe
+c:\users\carson\documents\visual studio 2015\Projects\RocketToy\RocketToy\bin\Debug\RocketToy.pdb
+c:\users\carson\documents\visual studio 2015\Projects\RocketToy\RocketToy\obj\Debug\RocketToy.csprojResolveAssemblyReference.cache
+c:\users\carson\documents\visual studio 2015\Projects\RocketToy\RocketToy\obj\Debug\RocketToy.exe
+c:\users\carson\documents\visual studio 2015\Projects\RocketToy\RocketToy\obj\Debug\RocketToy.pdb
